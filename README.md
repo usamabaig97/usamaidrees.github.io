@@ -3,7 +3,7 @@
 ### 🚀 Senior Flutter Developer at Raythorne
 
 - 🔭 I’m currently working on **mobile and web applications using Flutter**.
-- 🌱 Continuously enhancing my skills in **advanced state management** with **GetX** and **Riverpod**.
+- 🌱 Continuously enhancing my skills in **advanced state management** with **GetX** and **Bloc**.
 - 👯 Looking to collaborate on **open-source Flutter projects** to contribute to the community.
 - 📫 Reach me via **[Email](mailto:usamabaig0097@gmail.com)** or **[LinkedIn](https://linkedin.com/in/usamabaig97)**.
 
@@ -13,7 +13,7 @@
   Flutter, Dart, Angular, TypeScript, JavaScript, HTML, CSS
 
 - **Database & Cloud Services:**  
-  Firebase, SQL, SQLite, Firestore, Moor/Drift
+  Firebase, Firestore, SQFLite, Moor/Drift
 
 - **Development Tools:**  
   Git, GitHub, Bitbucket, Figma, Adobe XD, Android Studio, Visual Studio Code
