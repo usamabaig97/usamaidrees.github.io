@@ -85,9 +85,6 @@ A walkie-talkie style communication app for quick and reliable communication.
 The University of Faisalabad  
 (2017/10 – 2021/09)
 
-## 📈 GitHub Stats
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamabaig97&show_icons=true&theme=radical)
 
 ## 🛠️ Languages & Frameworks
 
