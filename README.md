@@ -16,7 +16,7 @@
   Firebase, SQL, SQLite, Firestore, Moor/Drift
 
 - **Development Tools:**  
-  Git, GitHub, Bitbucket, Figma, Adobe XD
+  Git, GitHub, Bitbucket, Figma, Adobe XD, Android Studio, Visual Studio Code
 
 - **API Integration:**  
   RESTful, GraphQL, SOAP API
@@ -26,35 +26,6 @@
 
 ## 💼 Featured Projects
 
-### **[IBA Link Alumni App](https://play.google.com/store/apps/details?id=com.iba.linkalumni&hl=en)**  
-A mobile app for IBA alumni to stay connected, manage their profiles, and participate in discussions.  
-- Alumni networking platform.
-- Profile management and group participation.
-- Event access and exclusive resources.
-
-### **[Spotit](https://play.google.com/store/apps/details?id=com.app.spotit&hl=en)**  
-A social platform allowing users to discover, share, and follow real-time updates.  
-- Real-time discovery and updates.
-- Social engagement features.
-
-### **[AMICA Energy](https://play.google.com/store/apps/details?id=com.viion.amica&hl=en)**  
-A comprehensive solar energy monitoring app.  
-- Real-time data on battery status, weather conditions, and energy usage.
-- Intuitive graphical interface and advanced charting libraries.
-
-### **[A Cityzen for Life](https://play.google.com/store/apps/details?id=com.viion.tcsalumniapp&hl=en)**  
-An alumni app fostering communication and collaboration among former students.  
-- User profiles, discussions, and event participation.
-- A comprehensive directory for reconnection.
-
-### **[The Luxury Exchange (TLE)](https://play.google.com/store/apps/details?id=com.app.tle&hl=en)**  
-A luxury trading platform enabling users to exchange high-end items.  
-- Exclusive user marketplace for trading luxury goods.
-
-### **[NTC Autoparts](https://play.google.com/store/apps/details?id=com.app.ntc&hl=en)**  
-A comprehensive platform for searching and purchasing auto parts.  
-- Intuitive search functionality.
-- Real-time availability and product details.
 
 ### **[BOSS](https://play.google.com/store/apps/details?id=com.beaconhouse.boss&hl=en)**  
 An alumni platform for Beaconhouse, allowing networking, collaboration, and event access.  
@@ -68,6 +39,25 @@ A solar plant monitoring system for real-time tracking and graphical data repres
 ### **[My Transworld](https://play.google.com/store/apps/details?id=com.viion.tes&hl=en)**  
 An app for Transworld, a leading ISP, offering internet speed monitoring and package management.  
 - Features for activating, deactivating, and managing internet services.
+
+### **[Spotit](https://play.google.com/store/apps/details?id=com.app.spotit&hl=en)**  
+A social platform allowing users to discover, share, and follow real-time updates.  
+- Real-time discovery and updates.
+- Social engagement features.
+
+### **[AMICA Energy](https://play.google.com/store/apps/details?id=com.viion.amica&hl=en)**  
+A comprehensive solar energy monitoring app.  
+- Real-time data on battery status, weather conditions, and energy usage.
+- Intuitive graphical interface and advanced charting libraries.
+
+### **[The Luxury Exchange (TLE)](https://play.google.com/store/apps/details?id=com.app.tle&hl=en)**  
+A luxury trading platform enabling users to exchange high-end items.  
+- Exclusive user marketplace for trading luxury goods.
+
+### **[NTC Autoparts](https://play.google.com/store/apps/details?id=com.app.ntc&hl=en)**  
+A comprehensive platform for searching and purchasing auto parts.  
+- Intuitive search functionality.
+- Real-time availability and product details.
 
 ### **[Talker PTT Walkie Talkie](https://play.google.com/store/apps/details?id=network.talker.app&hl=en)**  
 A walkie-talkie style communication app for quick and reliable communication.  
