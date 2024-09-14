@@ -51,23 +51,28 @@ An alumni app fostering communication and collaboration among former students.
 A luxury trading platform enabling users to exchange high-end items.  
 - Exclusive user marketplace for trading luxury goods.
 
-### **[BEL - Connect]**  
+### **[NTC Autoparts](https://play.google.com/store/apps/details?id=com.app.ntc&hl=en)**  
+A comprehensive platform for searching and purchasing auto parts.  
+- Intuitive search functionality.
+- Real-time availability and product details.
+
+### **[BOSS](https://play.google.com/store/apps/details?id=com.beaconhouse.boss&hl=en)**  
+An alumni platform for Beaconhouse, allowing networking, collaboration, and event access.  
+- Facilitates communication among alumni with profile management, groups, and discussions.
+
+### **[BEL - Connect](https://play.google.com/store/apps/details?id=com.energise.bel&hl=en)**  
 A solar plant monitoring system for real-time tracking and graphical data representation.  
 - Monitors battery status, energy usage, and inverter performance.
 - Available on web and mobile platforms.
 
-### **[BOSS]**  
-An alumni platform for Beaconhouse, allowing networking, collaboration, and event access.  
-- Facilitates communication among alumni with profile management, groups, and discussions.
-
-### **[Paychain]**  
-A versatile digital wallet for global transactions.  
-- Instant money transfers with comprehensive fund management.
-- Available on iOS, Android, and web platforms.
-
-### **[My Transworld]**  
+### **[My Transworld](https://play.google.com/store/apps/details?id=com.viion.tes&hl=en)**  
 An app for Transworld, a leading ISP, offering internet speed monitoring and package management.  
 - Features for activating, deactivating, and managing internet services.
+
+### **[Talker PTT Walkie Talkie](https://play.google.com/store/apps/details?id=network.talker.app&hl=en)**  
+A walkie-talkie style communication app for quick and reliable communication.  
+- Real-time PTT (push-to-talk) functionality.
+- Supports communication over different networks.
 
 ## 💼 Work Experience
 
@@ -90,6 +95,14 @@ An app for Transworld, a leading ISP, offering internet speed monitoring and pac
 The University of Faisalabad  
 (2017/10 – 2021/09)
 
+## 📈 GitHub Stats
+
+![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamabaig97&show_icons=true&theme=radical)
+
+## 🛠️ Languages & Frameworks
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamabaig97&layout=compact&theme=radical)
+
 ## 🌐 Contact Me
 
 - **Email:** [usamabaig0097@gmail.com](mailto:usamabaig0097@gmail.com)  
@@ -98,10 +111,6 @@ The University of Faisalabad
 - **LinkedIn:** [linkedin.com/in/usamabaig97](https://linkedin.com/in/usamabaig97)  
 - **GitHub:** [usamabaig97](https://github.com/usamabaig97)  
 - **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01060f4eb367cdfe8e)
-
-## 📊 GitHub Stats
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamabaig97&show_icons=true&theme=radical)
 
 ---
 
