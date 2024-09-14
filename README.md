@@ -1,19 +1,108 @@
 # Hi, I'm Usama Idrees 👋
 
 ### 🚀 Senior Flutter Developer at Raythorne
-- 🔭 I’m currently working on mobile and web applications using Flutter.
-- 🌱 I’m currently learning advanced state management with GetX and Riverpod.
-- 👯 I’m looking to collaborate on open-source Flutter projects.
-- 📫 How to reach me: [email] | [LinkedIn](linkedin.com/...)
+
+- 🔭 I’m currently working on **mobile and web applications using Flutter**.
+- 🌱 Continuously enhancing my skills in **advanced state management** with **GetX** and **Riverpod**.
+- 👯 Looking to collaborate on **open-source Flutter projects** to contribute to the community.
+- 📫 Reach me via **[Email](mailto:usamabaig0097@gmail.com)** or **[LinkedIn](https://linkedin.com/in/usamabaig97)**.
 
 ## 🔧 Technologies & Tools
-- Flutter, Dart, Firebase
-- Angular, JavaScript, HTML, CSS
-- SQL, SQLite, Firestore
+
+- **Languages & Frameworks:**  
+  Flutter, Dart, Angular, TypeScript, JavaScript, HTML, CSS
+
+- **Database & Cloud Services:**  
+  Firebase, SQL, SQLite, Firestore, Moor/Drift
+
+- **Development Tools:**  
+  Git, GitHub, Bitbucket, Figma, Adobe XD
+
+- **API Integration:**  
+  RESTful, GraphQL, SOAP API
+
+- **State Management:**  
+  GetX, Bloc
 
 ## 💼 Featured Projects
-- **[Project 1 Name](link-to-repo):** Brief description of the project.
-- **[Project 2 Name](link-to-repo):** Brief description of the project.
+
+### **[IBA Link Alumni App](https://play.google.com/store/apps/details?id=com.iba.linkalumni&hl=en)**  
+A mobile app for IBA alumni to stay connected, manage their profiles, and participate in discussions.  
+- Alumni networking platform.
+- Profile management and group participation.
+- Event access and exclusive resources.
+
+### **[Spotit](https://play.google.com/store/apps/details?id=com.app.spotit&hl=en)**  
+A social platform allowing users to discover, share, and follow real-time updates.  
+- Real-time discovery and updates.
+- Social engagement features.
+
+### **[AMICA Energy](https://play.google.com/store/apps/details?id=com.viion.amica&hl=en)**  
+A comprehensive solar energy monitoring app.  
+- Real-time data on battery status, weather conditions, and energy usage.
+- Intuitive graphical interface and advanced charting libraries.
+
+### **[A Cityzen for Life](https://play.google.com/store/apps/details?id=com.viion.tcsalumniapp&hl=en)**  
+An alumni app fostering communication and collaboration among former students.  
+- User profiles, discussions, and event participation.
+- A comprehensive directory for reconnection.
+
+### **[The Luxury Exchange (TLE)](https://play.google.com/store/apps/details?id=com.app.tle&hl=en)**  
+A luxury trading platform enabling users to exchange high-end items.  
+- Exclusive user marketplace for trading luxury goods.
+
+### **[BEL - Connect]**  
+A solar plant monitoring system for real-time tracking and graphical data representation.  
+- Monitors battery status, energy usage, and inverter performance.
+- Available on web and mobile platforms.
+
+### **[BOSS]**  
+An alumni platform for Beaconhouse, allowing networking, collaboration, and event access.  
+- Facilitates communication among alumni with profile management, groups, and discussions.
+
+### **[Paychain]**  
+A versatile digital wallet for global transactions.  
+- Instant money transfers with comprehensive fund management.
+- Available on iOS, Android, and web platforms.
+
+### **[My Transworld]**  
+An app for Transworld, a leading ISP, offering internet speed monitoring and package management.  
+- Features for activating, deactivating, and managing internet services.
+
+## 💼 Work Experience
+
+### Raythorne (2023/01 – Present)  
+**Senior Flutter Developer**  
+- Leading the development of mobile applications using Flutter.
+- Collaborating with cross-functional teams including designers and backend developers.
+- Managing project timelines and conducting code reviews for quality assurance.
+- Enhancing applications with innovative features using Angular and Flutter.
+
+### VIION Technology (2021/10 – 2023/12)  
+**Junior Flutter Developer**  
+- Contributed to the development and enhancement of mobile applications.
+- Collaborated with senior developers on UI/UX implementation, API integration, and state management.
+- Gained hands-on experience in testing and troubleshooting.
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+The University of Faisalabad  
+(2017/10 – 2021/09)
+
+## 🌐 Contact Me
+
+- **Email:** [usamabaig0097@gmail.com](mailto:usamabaig0097@gmail.com)  
+- **Location:** Lahore, Pakistan  
+- **Phone:** +92 300 067 9897  
+- **LinkedIn:** [linkedin.com/in/usamabaig97](https://linkedin.com/in/usamabaig97)  
+- **GitHub:** [usamabaig97](https://github.com/usamabaig97)  
+- **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01060f4eb367cdfe8e)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamabaig97&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my projects and connect with me!
