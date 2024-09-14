@@ -96,8 +96,7 @@ The University of Faisalabad
 - **Location:** Lahore, Pakistan  
 - **Phone:** +92 300 067 9897  
 - **LinkedIn:** [linkedin.com/in/usamabaig97](https://linkedin.com/in/usamabaig97)  
-- **GitHub:** [usamabaig97](https://github.com/usamabaig97)  
-- **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01060f4eb367cdfe8e)
+- **GitHub:** [usamabaig97](https://github.com/usamabaig97)
 
 ---
 
